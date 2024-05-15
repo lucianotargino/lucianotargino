@@ -2,7 +2,7 @@
 
 💻 Front-End JR | 🌎 🇧🇷
 
->Estudante de <q><i>analise e desenvolvimento de sistemas</i></q>, meu objetivo é iniciar minha carreira como desenvolvedor <b>front-end</b> em uma empresa inovadora, onde eu possa aplicar meus conhecimentos em HTML, CSS e JavaScript para criar interfaces de usuário intuitivas e atraentes. Estou comprometido em aprender continuamente e colaborar com uma equipe para desenvolver soluções web de alta qualidade que melhorem a experiência do usuário e impulsionem os objetivos do negócio.
+>Estudante de <b><q><i>analise e desenvolvimento de sistemas</i></q></b>, meu objetivo é iniciar minha carreira como desenvolvedor <b>front-end</b> em uma empresa inovadora, onde eu possa aplicar meus conhecimentos em <b>HTML, CSS e JavaScript</b> para criar interfaces de usuário intuitivas e atraentes. Estou comprometido em aprender continuamente e colaborar com uma equipe para desenvolver soluções web de alta qualidade que melhorem a experiência do usuário e impulsionem os objetivos do negócio.
 <hr>
 
  📫 Fale comigo:
