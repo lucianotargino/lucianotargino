@@ -20,9 +20,4 @@
 <img aling ="center" alt="JAVASCRIPT" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "display: inline_block" /> <img aling="center" alt="CSS3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "display: inline_block" /> <img aling="center" alt="" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
 
 </div><br/>
-
-![snake gif](https://github.com/lucianotargino/lucianotargino/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  
 </div>
