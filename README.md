@@ -10,7 +10,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucianotarg/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-t-435306294/?originalSubdomain=br)
 
-![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianotargino&show_icons=true&theme=swift) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianotargino&hide_progress=true)
+![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianotargino&show_icons=true&theme=swift) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianotargino&hide_progress=true)
 
 ## Tecnologias dominantes:
 
@@ -21,6 +23,8 @@
 </div><br/>
 
 [def]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+![Snake animation](https://github.com/lucianotargino/lucianotargino/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   
