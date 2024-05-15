@@ -9,15 +9,17 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucianotarg/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-t-435306294/?originalSubdomain=br)
-<a href= "[https:gmail.com]""lucianotargi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "lucianotargi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianotargino&show_icons=true&theme=swift)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianotargino&hide_progress=true)
+
+ ![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianotargino&show_icons=true&theme=swift) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianotargino&hide_progress=true)
 
 ## Tecnologias dominantes:
 
+<a href>
 <div style = "display: inline_block">
 <img aling = "center" alt="html5" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white "display: inline_block">
-<img aling ="center" alt="JAVASCRIPT" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "display: inline_block" /> <img aling="center" alt="CSS3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "display: inline_block" /> <img aling="center" alt="" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
-
-</div><br/>
+<img aling ="center" alt="JAVASCRIPT" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "display: inline_block" /> <img aling="center" alt="CSS3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "display: inline_block" /> <img aling="center" alt="" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white /> </a>
+</br>
+  
 </div>
