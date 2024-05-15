@@ -1,4 +1,3 @@
-# devlucianotargino
 ## Olá, sou o Luciano targino! 👨🏾‍🚀👊🏾
 
 💻 Front-end Jr | 🇧🇷 🗺️
