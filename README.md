@@ -1,9 +1,18 @@
 ## Olá, sou o Luciano Targino! 👨🏾‍🚀👊🏾
 
-💻 Front-End JR | 🌎 🇧🇷
+💻 Desenvolvedor Front-End especializado em HTML5 | CSS3 | JavaScript | React | Design Responsivo | UX/UI Design | Versionamento de Código (Git | GitHub) | PHP | SQL | MySQL. |🌎 🇧🇷
 
->Estudante de <b><q><i>analise e desenvolvimento de sistemas</i></q></b>, meu objetivo é iniciar minha carreira como desenvolvedor <b>front-end</b> em uma empresa inovadora, onde eu possa aplicar meus conhecimentos em <b>HTML, CSS e JavaScript</b> para criar interfaces de usuário intuitivas e atraentes. Estou comprometido em aprender continuamente e colaborar com uma equipe para desenvolver soluções web de alta qualidade que melhorem a experiência do usuário e impulsionem os objetivos do negócio.
-<hr>
+Olá, 
+
+Sou Luciano Targino de Lima, estudante do 4º período de Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR).
+Atualmente, atuo como Desenvolvedor Front-End, especializado em HTML5, CSS3, JavaScript, React, Design Responsivo, UX/UI Design, além de possuir conhecimentos sólidos em PHP, SQL e MySQL para gerenciamento de bancos de dados. Também tenho experiência em versionamento de código com Git e GitHub. Sou um profissional comprometido e proativo, sempre em busca de desafios que impulsionem meu crescimento e permitam contribuir de forma eficaz e inovadora para a equipe.
+
+Contato:
+
+- E-mail: lucianotargi@gmail.com
+- Telefone & WhatsApp: +55 (83) 98635-3910.
+
+👨🏽‍💻👋🏼
 
  📫 Fale comigo:
 
