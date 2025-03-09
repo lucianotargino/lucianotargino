@@ -4,7 +4,7 @@
 
 Olá, 
 
-Sou Luciano Targino de Lima, estudante do 4º período de Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR).
+Sou Luciano Targino de Lima, estudante do 5º período de Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR).
 Atualmente, atuo como Desenvolvedor Front-End, especializado em HTML5, CSS3, JavaScript, React, Design Responsivo, UX/UI Design, além de possuir conhecimentos sólidos em PHP, SQL e MySQL para gerenciamento de bancos de dados. Também tenho experiência em versionamento de código com Git e GitHub. Sou um profissional comprometido e proativo, sempre em busca de desafios que impulsionem meu crescimento e permitam contribuir de forma eficaz e inovadora para a equipe.
 
 Contato:
